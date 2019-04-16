@@ -1,19 +1,13 @@
 package com.spring.aop;
 
-import org.aopalliance.intercept.Joinpoint;
-import org.aspectj.lang.ProceedingJoinPoint;
-import org.aspectj.lang.annotation.AfterReturning;
-import org.aspectj.lang.annotation.AfterThrowing;
-import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
-import org.aspectj.lang.annotation.Pointcut;
 
 @Aspect
 public class AopClass {
 
-/*
-  //	@Before("execution(public String com.spring.aop.Circle.getName())")
+
+  //@Before("execution(public String com.spring.aop.Circle.getName())")
 //	@Before("execution(* get*())")
 //	@Before("execution(* get*(*))")
 //	@Before("execution(* get*(..))")
@@ -24,12 +18,12 @@ public class AopClass {
 		System.out.println("Advice run before the execution of getName method");
 	}
     
-	@Before("execution(* com.spring.aop.*.*get(..))")
+	/*@Before("execution(* com.spring.aop.*.*get(..))")
 	public void secondAdvice()
 	{
 		System.out.println("Second Advice executed");
-	}
-	*/
+	}*/
+	
 	
 /*	@Before("allGetters()")
 	public void LoggingAdvice()
@@ -119,7 +113,7 @@ public class AopClass {
 	@Around("@annotation(com.spring.aop.Loggable)")
    public void mk(){}
 	*/
-	
+	/*
 	@Around("point()")
 	public void around(ProceedingJoinPoint proceedingJoinPoint)
 	{
@@ -141,6 +135,6 @@ public class AopClass {
 	@Pointcut("execution(* get*())")
 	public void point()
 	{}
-
+*/
 
 }

@@ -1,8 +1,11 @@
 package com.spring.aop;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 public class ShapeService {
-	
+	@Autowired
 	private Circle circle;
+	@Autowired
 	private Triangle triangle;
 	
 	public Circle getCircle() {

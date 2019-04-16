@@ -1,0 +1,18 @@
+Required jar files in AOP are 
+1) core spring jars
+2) aspectrt.jar
+3) aspectjweaver.jar
+4) aopalliance.jar
+5) cglib-2.2.2.jar
+6) asm-3.3.1.jar
+
+
+Configuration for aop 
+1) created a class with annotation @Aspect, class known as Aspect and created methods in it with annotation @Befor("execution()") methods inside Aspect are known as advice
+  registed the aspect class in the xml as a bean   
+  <bean id="shapeService" class="com.aop.latest.ShapeService" autowire="byName"/>
+  
+  Note : dont include spring-asm.jar file in the library for spring aop it will cause the Caused by: java.lang.IncompatibleClassChangeError: class org.springframework.cglib.core.DebuggingClassWriter has interface org.springframework.asm.ClassVisitor as super class
+  
+  
+  
