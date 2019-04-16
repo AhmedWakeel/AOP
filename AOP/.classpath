@@ -4,5 +4,76 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AOP"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/aspectj/aspectj/aopalliance-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/aspectj/aspectj/aspectj-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/aspectj/aspectj/aspectjrt-1.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/aspectj/aspectj/aspectj-weaver.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/aspectj/aspectj/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/aspectj/aspectj/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/aspectj/aspectj/spring-asm-3.1.4.release.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-aop-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-aop-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-aop-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-aspects-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-aspects-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-aspects-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-beans-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-beans-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-beans-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-context-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-context-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-context-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-context-indexer-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-context-indexer-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-context-indexer-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-context-support-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-context-support-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-context-support-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-core-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-core-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-core-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-expression-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-expression-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-expression-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-instrument-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-instrument-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-instrument-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-jcl-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-jcl-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-jcl-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-jdbc-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-jdbc-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-jdbc-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-jms-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-jms-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-jms-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-messaging-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-messaging-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-messaging-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-orm-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-orm-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-orm-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-oxm-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-oxm-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-oxm-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-test-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-test-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-test-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-tx-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-tx-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-tx-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-web-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-web-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-web-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-webflux-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-webflux-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-webflux-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-webmvc-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-webmvc-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-webmvc-5.0.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-websocket-5.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-websocket-5.0.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JAVA/spring jars/spring jars/spring-websocket-5.0.4.RELEASE-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
